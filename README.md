@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá, Eu Sou o Gabriel Victor! 👋
 
-<!--
-**Tekerum/Tekerum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Front e Back-end
+- 🐍 Estudando Python
+- 📥 Contate-me no Email: gabrielvlim8@gmail.com
+- ⚡ Fato divertido: comecei a programar com ± 10 anos, mas nunca me aprofundei!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Tekerum">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tekerum&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tekerum&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" >
+  <img align="center" alt="Gabriel-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="GabrielPic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/454e49e629be3b4952bcb64164f963e1/a0d8aafea46875c4-9e/s500x750/406117e4e1b208f95f185dac5218f5cee97fe1c8.jpg?width=676&height=676">
+</div>
