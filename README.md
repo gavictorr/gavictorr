@@ -21,5 +21,5 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
   <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" id="icone" alt="GabrielPic" height="150" style="border-radius:500px;" src="https://geekdama.com.br/wp-content/uploads/2022/03/one-piece-luffy-gear-5-fanart-08-by-desconhecido.jpg">
+  <img align="right" id="icone" alt="GabrielPic" height="150" src="https://64.media.tumblr.com/cac928b61b484cdcf7704bb9d9f9f625/d7bd07b5d18722ce-0b/s540x810/412ab2114181401135b6f3dde251e4e33e71111b.png" style="border-radius:100px;">
 </div>
