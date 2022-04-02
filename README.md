@@ -7,9 +7,9 @@
 
 <link rel="stylesheet" href="style.css">
 <div align="center">
-  <a href="https://github.com/Tekerum">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tekerum&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tekerum&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gavictor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavictor&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
