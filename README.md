@@ -5,11 +5,10 @@
 - 📥 Contate-me no Email: gabrielvlim8@gmail.com
 - ⚡ Fato divertido: comecei a programar com ± 10 anos, mas nunca me aprofundei!
 
-<link rel="stylesheet" href="style.css">
-<div align="center">
+<div>
   <a href="https://github.com/gavictor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavictor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavictor&layout=compact&langs_count=7&theme=midnight-purple">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavictor&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   
