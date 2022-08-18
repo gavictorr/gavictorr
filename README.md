@@ -6,9 +6,9 @@
 - ⚡ Fato divertido: comecei a programar com ± 10 anos, mas nunca me aprofundei!
 
 <div>
-  <a href="https://github.com/gavictor">
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=gavictor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavictor&layout=compact&langs_count=7&theme=midnight-purple">
+  <a href="https://github.com/gavictorr">
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=gavictorr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavictorr&layout=compact&langs_count=7&theme=midnight-purple">
 </div>
   
   
