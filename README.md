@@ -6,12 +6,6 @@
 - 🐍 Utilizando Python para automação e scripts de rede
 - 📥 Contate-me no Email: [gabrielvlim8@gmail.com](mailto:gabrielvlim8@gmail.com)
 - ⚡ **Fato divertido:** Desmonto e mexo em computadores desde os 10 anos; o que era hobby virou minha rota profissional!
-
-<div>
-  <a href="https://github.com/gavictorr">
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=gavictorr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavictorr&layout=compact&langs_count=7&theme=midnight-purple">
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg">
