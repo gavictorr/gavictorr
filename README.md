@@ -1,9 +1,10 @@
 ### Olá, Eu Sou o Gabriel Victor! 👋
 
-- 🔭 Hoje trabalho com Front e Back-end
-- 🐍 Estudando Python
-- 📥 Contate-me no Email: gabrielvlim8@gmail.com
-- ⚡ Fato divertido: comecei a programar com ± 10 anos, mas nunca me aprofundei!
+- 🎓 Graduando em **Redes de Computadores** na Uninter
+- 🌐 Focando em infraestrutura, protocolos e segurança de redes
+- 🐍 Utilizando Python para automação e scripts de rede
+- 📥 Contate-me no Email: [gabrielvlim8@gmail.com](mailto:gabrielvlim8@gmail.com)
+- ⚡ **Fato divertido:** Desmonto e mexo em computadores desde os 10 anos; o que era hobby virou minha rota profissional!
 
 <div>
   <a href="https://github.com/gavictorr">
