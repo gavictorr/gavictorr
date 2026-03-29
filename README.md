@@ -14,5 +14,4 @@
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" >
   <img align="center" alt="Gabriel-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" id="icone" alt="GabrielPic" height="150" src="https://64.media.tumblr.com/cac928b61b484cdcf7704bb9d9f9f625/d7bd07b5d18722ce-0b/s540x810/412ab2114181401135b6f3dde251e4e33e71111b.png" style="border-radius:100px;">
 </div>
